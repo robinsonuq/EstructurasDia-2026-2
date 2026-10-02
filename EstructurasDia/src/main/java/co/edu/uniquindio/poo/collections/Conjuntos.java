@@ -1,6 +1,4 @@
-package co.edu.uniquindio.poo;
-
-import co.edu.uniquindio.poo.torneo.Jugador;
+package co.edu.uniquindio.poo.collections;
 
 import java.util.*;
 

@@ -1,6 +1,4 @@
-package co.edu.uniquindio.poo;
-
-import java.util.*;
+package co.edu.uniquindio.poo.collections;
 
 public class Recursividad {
 
